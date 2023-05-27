@@ -1,0 +1,85 @@
+{
+  "products": [
+    {
+      "image": "https://placehold.co/600x300",
+      "name": "suit",
+      "price": 9000,
+      "brand": "Eugoboss",
+      "category": "top-wear",
+      "gender": "men",
+      "id": 5
+    },
+    {
+      "image": "https://placehold.co/600x300",
+      "name": "swim suit",
+      "price": "4500",
+      "brand": "Goa brand",
+      "category": "top-wear",
+      "gender": "Women",
+      "id": 7
+    },
+    {
+      "image": "https://placehold.co/600x300",
+      "name": "Kurtha",
+      "price": "8950",
+      "brand": "Armani",
+      "category": "top-wear",
+      "gender": "men",
+      "id": 9
+    },
+    {
+      "image": "https://placehold.co/600x300",
+      "name": "Lehenga",
+      "price": "10000",
+      "brand": "Armani",
+      "category": "bottom-wear",
+      "gender": "Women",
+      "id": 10
+    },
+    {
+      "image": "https://placehold.co/600x300",
+      "name": "Shoes",
+      "price": 12000,
+      "brand": "sketchers",
+      "category": "bottom-wear",
+      "gender": "men",
+      "id": 13
+    },
+    {
+      "image": "https://placehold.co/600x300",
+      "name": "Watch",
+      "price": 7888,
+      "brand": "Armani",
+      "category": "top-wear",
+      "gender": "Women",
+      "id": 14
+    },
+    {
+      "image": "https://placehold.co/600x300",
+      "name": "boots",
+      "price": 8900,
+      "brand": "woodland",
+      "category": "bottom-wear",
+      "gender": "men",
+      "id": 15
+    },
+    {
+      "image": "https://placehold.co/600x300",
+      "name": "croptop",
+      "price": 12000,
+      "brand": "Armani",
+      "category": "top-wear",
+      "gender": "Women",
+      "id": 16
+    },
+    {
+      "image": "https://placehold.co/600x300",
+      "name": "Lal dupatta",
+      "price": 7908,
+      "brand": "Eugoboss",
+      "category": "top-wear",
+      "gender": "Women",
+      "id": 17
+    }
+  ]
+}
